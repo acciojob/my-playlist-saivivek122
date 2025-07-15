@@ -9,6 +9,9 @@ li{
 list-style-type:none;	
 
 }
+a{
+text-decoration-line:none;
+}
 
 
 .player_one,.player_two{
